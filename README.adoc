@@ -3356,10 +3356,11 @@ An outdated comment is worse than no comment at all.
 
 === Refactor, Don't Comment [[refactor-dont-comment]]
 
-[quote, old programmers maxim through 'http://en.wikipedia.org/wiki/Samuel_Johnson[Samuel Johnson]']
-____
-Good code is like a good joke: it needs no explanation.
-____
+[quote, foo bar, 'http://en.wikipedia.org/wiki/Samuel_Johnson[via Samuel Johnson]']
+_____________________________________________________________________
+Sir, a woman's preaching is like a dog's walking on his hind legs. It
+is not done well; but you are surprised to find it done at all.
+_____________________________________________________________________
 
 
 Avoid writing comments to explain bad code.
