@@ -3356,7 +3356,7 @@ An outdated comment is worse than no comment at all.
 
 === Refactor, Don't Comment [[refactor-dont-comment]]
 
-[quote, old programmers maxim through <a href="http://eloquentruby.com/blog/2011/03/07/good-code-and-good-jokes/">Russ Olsen</a>]
+[quote, old programmers maxim through 'http://en.wikipedia.org/wiki/Samuel_Johnson[Samuel Johnson]']
 ____
 Good code is like a good joke: it needs no explanation.
 ____
